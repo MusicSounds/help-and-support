@@ -1,3 +1,2 @@
 
-# MusicSounds
-## Help and Support
+# MusicSounds • Help and Support
